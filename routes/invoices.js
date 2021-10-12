@@ -3,7 +3,7 @@ const slugify = require("slugify");
 const ExpressError = require("../expressError")
 const db = require("../db");
 
-let router = new express.Router();
+const router = new express.Router();
 
 // Add routes/invoices.js. All routes in this file should be prefixed by /invoices.
 

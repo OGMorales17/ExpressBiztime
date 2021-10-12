@@ -1,9 +1,4 @@
 /** BizTime express application. */
-// const express = require("express");
-// const app = express();
-// const ExpressError = require("./expressError")
-
-// const companiesRoute = require(".routes/companies")
 const express = require("express");
 
 const ExpressError = require("./expressError")
